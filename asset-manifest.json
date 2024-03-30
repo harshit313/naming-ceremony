@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/naming-ceremony/static/css/main.f28c5c42.css",
+    "main.js": "/naming-ceremony/static/js/main.6f267097.js",
+    "static/js/453.dd9e19b0.chunk.js": "/naming-ceremony/static/js/453.dd9e19b0.chunk.js",
+    "static/media/background.jpeg": "/naming-ceremony/static/media/background.922180ae4bbeb185c05f.jpeg",
+    "index.html": "/naming-ceremony/index.html",
+    "main.f28c5c42.css.map": "/naming-ceremony/static/css/main.f28c5c42.css.map",
+    "main.6f267097.js.map": "/naming-ceremony/static/js/main.6f267097.js.map",
+    "453.dd9e19b0.chunk.js.map": "/naming-ceremony/static/js/453.dd9e19b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f28c5c42.css",
+    "static/js/main.6f267097.js"
+  ]
+}
